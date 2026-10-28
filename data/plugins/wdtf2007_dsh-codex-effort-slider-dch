@@ -1,0 +1,10 @@
+url: https://github.com/wdtf2007/dsh-codex-effort-slider-dch        # must match the repo exactly / 必须与仓库完全一致
+name: dsh-codex-effort-slider-dch                          # link text shown in the list / 列表中显示的链接文字
+category: ui                              # see the category list below / 见下方分类列表
+description:
+  en: Provides inference intensity animations compatible with the Codex subscription model for DeepSeek Harness (DSH Desktop) and adapts the dsh-codex-subscription plugin (modified from dsh-codex-effort-slider).
+  zh: 为 DeepSeek Harness（DSH Desktop）提供 ​​Codex 订阅模型兼容的推理强度动画 并适配了dsh-codex-subscription插件（修改于dsh-codex-effort-slider）。   # optional — a maintainer will add it / 可选，维护者会补
+# optional — GitHub-hosted raster image used as the storefront tile;
+# falls back to the owner's avatar when omitted
+# 可选——用 GitHub 托管的位图作为市场卡片图标；不写则回退到作者头像
+icon: https://avatars.githubusercontent.com/u/316553422?s=60&v=4
